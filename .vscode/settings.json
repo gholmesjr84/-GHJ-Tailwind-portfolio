@@ -1,0 +1,15 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.eol": "\r\n",
+  "css.validate": false,
+  "tailwindCSS.emmetCompletions": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+  "files.associations": {
+    "*.css": "tailwindcss"
+  }
+}

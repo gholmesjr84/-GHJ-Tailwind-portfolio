@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --radius: 16px; }
+:focus-visible { outline: 3px solid rgba(58,175,169,.65); outline-offset: 2px; }
+.btn-brand { @apply inline-flex items-center justify-center rounded-full px-5 py-2.5 bg-pumpkin text-white transition hover:-translate-y-0.5 hover:bg-teal; }
+.btn-outline { @apply inline-flex items-center justify-center rounded-full px-5 py-2.5 border border-deepplum text-deepplum hover:bg-deepplum hover:text-white; }
+.card { @apply rounded-2xl shadow-soft bg-white border border-black/10; }
+.badge-soft { @apply inline-flex items-center rounded-md border border-black/10 bg-mustard/20 px-2 py-1 text-xs; }
+.dark .card { @apply bg-neutral-900 border-white/10; }
+.dark body { @apply bg-neutral-950 text-neutral-100; }
+a { @apply text-teal hover:text-pumpkin underline-offset-2 hover:underline; }
+.logo-font { font-family: 'Shrikhand', cursive; }

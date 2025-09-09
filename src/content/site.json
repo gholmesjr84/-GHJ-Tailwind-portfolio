@@ -1,0 +1,92 @@
+{
+  "site": {
+    "artistName": "Greg Holmes Jr",
+    "tagline": "Art with retro bite.",
+    "heroSubtext": "Illustration, character art, and bold branding. Atomic-era personality, modern polish."
+  },
+  "gallery": [
+    {
+      "src": "https://i.ibb.co/8gkstK4q/Tommy-Logo-2-2.png",
+      "alt": "Placeholder \u2014 cyberpunk city",
+      "title": "Tommy Test Logo Shirt",
+      "placeholder": false
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1517816743773-6e0fd518b4a6?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Placeholder \u2014 fantasy valley",
+      "title": "Art coming soon",
+      "placeholder": true
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1549880338-7e1e6a6a5f9f?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Placeholder \u2014 character concept",
+      "title": "Art coming soon",
+      "placeholder": true
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1520975922284-5f6b2fe2f6c2?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Placeholder \u2014 minimalist poster",
+      "title": "Art coming soon",
+      "placeholder": true
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Placeholder \u2014 abstract shapes",
+      "title": "Art coming soon",
+      "placeholder": true
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1481349518771-20055b2a7b24?q=80&w=1600&auto=format&fit=crop",
+      "alt": "Placeholder \u2014 comic panel",
+      "title": "Art coming soon",
+      "placeholder": true
+    }
+  ],
+  "tiers": [
+    {
+      "name": "Character Bust",
+      "price": "from $70",
+      "badge": "Starter",
+      "blurb": "Clean line + color, perfect for avatars and profile art.",
+      "features": [
+        "Shoulders-up pose",
+        "1 round of revisions",
+        "Web-ready export (PNG)"
+      ],
+      "addons": [
+        "+$20 complex props/armor",
+        "+ $40 commercial license"
+      ]
+    },
+    {
+      "name": "Full Illustration",
+      "price": "from $200",
+      "badge": "Most Popular",
+      "blurb": "1\u20132 characters with a stylized background \u2014 poster-worthy.",
+      "features": [
+        "Detailed rendering",
+        "2 rounds of revisions",
+        "Print-ready file (CMYK PDF)"
+      ],
+      "addons": [
+        "+$50 per extra character",
+        "+ $75 complex background"
+      ]
+    },
+    {
+      "name": "Brand Artwork",
+      "price": "from $350",
+      "badge": "Pro",
+      "blurb": "Cover art, poster, or hero image to anchor your brand.",
+      "features": [
+        "2\u20133 revisions",
+        "Multiple formats + source file",
+        "Basic usage license"
+      ],
+      "addons": [
+        "+$100 rush (72h if schedule allows)",
+        "+ $150 extended license for merch/publishing"
+      ]
+    }
+  ]
+}
